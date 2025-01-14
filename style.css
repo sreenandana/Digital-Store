@@ -1,0 +1,79 @@
+/* navbar */
+
+.page-head{
+    color: rgb(50, 1, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-collapse{
+    padding-left: 750px;
+}
+.nav-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.search-input{
+    width: 130px;
+}
+.nav-icon{
+    padding-right: 40px;
+}
+
+/* home styling */
+.container-home{
+    background-color: #9adde7;
+}
+.home-image{
+    width: 400px;
+    height: 400px;
+}
+.home-texts{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #790000;
+    padding: 30px;
+}
+.button1{
+    background-color: rgb(101, 101, 175);
+    color: white;
+}
+.container-service{
+    display: flex;
+    justify-items: center;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    padding: 40px;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    
+}
+
+.heading1{
+    display: flex;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    padding: 20px;  
+}
+.container-offer{
+    margin-top: 50px;
+    background-color: #d2d5d5;   
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sub-para{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+.heading2{
+    margin-top: 50px;
+    display: flex;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    padding: 10px;
+} 
+.container-grid{
+    padding: 40px;   
+}
+.about-us{
+    padding: 40px;  
+ 
+}
