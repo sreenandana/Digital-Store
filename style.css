@@ -5,13 +5,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar-collapse{
-    padding-left: 600px;
+    padding-left: 500px;
 }
 .nav-item{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .search-input{
-    width: 130px;
+    width: 120px;
 }
 .nav-icon{
     padding-right: 40px;
@@ -70,6 +70,9 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
     padding: 10px;
 } 
+.active{
+    color: black;
+}
 .container-grid{
     padding: 40px;   
 }
