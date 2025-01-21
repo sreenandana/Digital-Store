@@ -5,16 +5,14 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar-collapse{
-    padding-left: 500px;
+    padding-left: 60px;
 }
 .nav-item{
+    padding-left: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.search-input{
-    width: 120px;
-}
 .nav-icon{
-    padding-right: 40px;
+    padding-right: 30px;
 }
 
 /* home styling */
@@ -36,16 +34,14 @@
 }
 .container-service{
     display: flex;
-    justify-items: center;
-    
+    justify-items: center;    
 }
 
 .heading{
     display: flex;
     justify-content: center;
     padding: 20px;  
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
-    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;      
 }
 
 .heading1{
